@@ -1,7 +1,6 @@
-
 /*
- *  NAME : LOCHAN PAUDEL
- *  PRN : 23070126170
+ *  NAME : Anjal Poudel
+ *  PRN : 23070126171
  *  BRANCH : AIML (A3)
  * 
  */
